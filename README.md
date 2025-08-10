@@ -1,7 +1,7 @@
 # 📄 My Resume
 
 Welcome to my resume repository!  
-Here, you’ll find my professional experience, skills, and achievements as a **QA Engineer** with expertise in **Manual Testing**, **Automation Testing**, and **JavaScript (Cypress)**.
+Here, you’ll find my professional experience, skills, and achievements as a **QA Engineer** with expertise in **Manual Testing** and **Automation Testing** using **TypeScript (Cypress)**.
 
 ---
 
