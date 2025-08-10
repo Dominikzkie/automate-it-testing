@@ -34,13 +34,6 @@ Here, you’ll find my professional experience, skills, and achievements as a **
 
 ---
 
-## 📌 Note
-
-> 💡 **Trivia:** You might notice I don't have any public repositories here.  
-> That's because most of my work is done using my **company's private GitHub**.  
-
----
-
 ## 📬 Contact
 - **LinkedIn**: https://www.linkedin.com/in/dominic-belmonte-63331416b/
 - **Email**: belmontedominicc@gmail.com
