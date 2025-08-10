@@ -22,6 +22,8 @@ Here, you’ll find my professional experience, skills, and achievements as a **
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg" alt="Cypress" width="40" height="40"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/src/web/icons/logo.svg" alt="Selenium" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
