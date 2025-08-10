@@ -28,8 +28,8 @@ Here, you’ll find my professional experience, skills, and achievements as a **
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" alt="CircleCI" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/C/clickup-symbol-logo-38975489A4-seeklogo.com.png" alt="ClickUp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/ClickUp_Logo.svg" alt="ClickUp" width="40" height="40"/>
 </p>
 
 ---
