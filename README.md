@@ -35,6 +35,8 @@ Here, you’ll find my professional experience, skills, and achievements as a **
 ## 📬 Contact
 - **LinkedIn**: https://www.linkedin.com/in/dominic-belmonte-63331416b/
 - **Email**: belmontedominicc@gmail.com
+- **Phone**: 09452790890
+
 
 ---
 
