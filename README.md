@@ -1,2 +1,33 @@
-# automate-it-testing-
-My Portfolio as a QA Engineer Focused on Test Automation 🚀
+# 📄 My Resume
+
+Welcome to my resume repository!  
+Here, you’ll find my professional experience, skills, and achievements as a **QA Engineer** with expertise in **Manual Testing**, **Automation Testing**, and **JavaScript (Cypress)**.
+
+---
+
+## 📌 About Me
+- 🧪 3+ years of experience in **QA Engineering**
+- 🔍 Skilled in **Manual Testing** & **Test Automation**
+- 💻 Strong knowledge of **JavaScript**, **Cypress**, **Git/GitHub**
+- 📊 Familiar with **Mochawesome** for test reporting
+- 🚀 Basic understanding of integrating tests into **CI/CD pipelines**
+- 📂 Passionate about improving software quality and delivering reliable applications
+
+---
+
+## 🛠 Skills
+
+**Languages & Frameworks:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg" alt="Cypress" width="40" height="40"/>  
+
+---
+
+## 📬 Contact
+- **LinkedIn**: https://www.linkedin.com/in/dominic-belmonte-63331416b/
+- **Email**: belmontedominicc@gmail.com
+
+---
+
+> 💡 *Tip:* Download the PDF version of my resume from this repository for a detailed overview.
