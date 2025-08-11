@@ -33,6 +33,7 @@ Here, you’ll find my professional experience, skills, and achievements as a **
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC8tgeDcYtezt1igXtlWcIHvo6hRw_rKYhbQ&s" alt="Salesforce" title="Salesforce" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEVj5jghuo4OafOMQn89JJkqy4yqGF6xLLQ&s" alt="Jest" title="Jest" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBcR_jUGRUQXTxC0rRSBsepEQ_my2T8IW1g&s" alt="Capybara" title="Capybara" width="40" height="40"/>
+  <img src="https://nightwatchjs.org/images/nightwatch-circle.png" alt="Nightwatch" title="Nightwatch" width="40" height="40"/>
 </p>
 
 ---
