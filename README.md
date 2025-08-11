@@ -30,6 +30,7 @@ Here, you’ll find my professional experience, skills, and achievements as a **
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" alt="CircleCI" title="CircleCI" width="40" height="40"/>
   <img src="https://clickup.com/images/for-se-page/clickup.png" alt="ClickUp" title="ClickUp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC8tgeDcYtezt1igXtlWcIHvo6hRw_rKYhbQ&s" alt="Salesforce" title="Salesforce" width="40" height="40"/>
 </p>
 
 ---
