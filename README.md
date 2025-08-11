@@ -34,11 +34,17 @@ Here, you’ll find my professional experience, skills, and achievements as a **
 
 ---
 
+## 📜 Certifications
+- **The Complete Cypress 12+ Course: From Zero to Expert** - Udemy
+- **The Complete 2022 Software Testing Bootcamp** - Udemy
+- **Introduction to SQL - Intermediate SQL Queries** - DataCamp
+
+---
+
 ## 📬 Contact
 - **LinkedIn**: https://www.linkedin.com/in/dominic-belmonte-63331416b/
 - **Email**: belmontedominicc@gmail.com
 - **Phone**: 09452790890
-
 
 ---
 
